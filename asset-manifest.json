@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/quickselar/static/css/main.63653f8f.css",
+    "main.js": "/quickselar/static/js/main.046b8043.js",
+    "static/js/787.cdcdca4b.chunk.js": "/quickselar/static/js/787.cdcdca4b.chunk.js",
+    "static/media/pexels-pixabay-356056.jpg": "/quickselar/static/media/pexels-pixabay-356056.b570d30412dce9b88d36.jpg",
+    "static/media/quickselar.png": "/quickselar/static/media/quickselar.88c68572a8553629c592.png",
+    "index.html": "/quickselar/index.html",
+    "main.63653f8f.css.map": "/quickselar/static/css/main.63653f8f.css.map",
+    "main.046b8043.js.map": "/quickselar/static/js/main.046b8043.js.map",
+    "787.cdcdca4b.chunk.js.map": "/quickselar/static/js/787.cdcdca4b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63653f8f.css",
+    "static/js/main.046b8043.js"
+  ]
+}
