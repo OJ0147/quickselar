@@ -1,0 +1,22 @@
+:root{
+  --primary : #1886c7;
+  --transparent-blue : #e8f3f9a1;
+  --light-blue : #4ca1d4;
+  --error: #b80707;
+  --border: 1px solid #4E4E4E;
+  --border-focus: 1px solid #1886c7;
+}
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  color: #333;
+}
+.flex-between{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+a{
+  text-decoration: none;
+}
